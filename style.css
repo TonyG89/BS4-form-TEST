@@ -1,0 +1,47 @@
+:root {
+    --font-main: 'Rubik', sans-serif;
+    --font-second: 'Poppins', sans-serif;
+    --color-main: #005570;
+    --color-second: #2DAFD7;
+    --color-bg: #F3FCFF;
+    --color-opacity: #99BBC6;
+    --color-opacity2: #F6F6F6;
+}
+
+html {
+    font-size: 18px;
+}
+
+body {
+    font-family: var(--font-second);
+}
+
+h1 {
+    font-family: var(--font-main);
+    font-size: 44px;
+    color: var(--color-main);
+    text-transform: uppercase;
+}
+
+h1 span {
+    color:
+}
+
+.title {
+    font-family: var(--font-main);
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+button {
+    font-size: 16px;
+    font-family: var(--font-main);
+    text-transform: uppercase;
+}
+
+
+h2 {
+    font-size: 20px;
+    font-family: var(--font-second);
+    font-weight: 700;
+}
